@@ -1,0 +1,9 @@
+export { default as CricketScoring } from './CricketScoring';
+export { default as FootballScoring } from './FootballScoring';
+export { default as BasketballScoring } from './BasketballScoring';
+export { default as VolleyballScoring } from './VolleyballScoring';
+export { default as KabaddiScoring } from './KabaddiScoring';
+export { default as HandballScoring } from './HandballScoring';
+export { default as TableTennisScoring } from './TableTennisScoring';
+export { default as HockeyScoring } from './HockeyScoring';
+export { default as SoftballScoring } from './SoftballScoring';

@@ -1,4 +1,0 @@
-match_id,half,start_time,elapsed_seconds,is_running,start_time_iso,accumulated_seconds,team1_timeouts,team2_timeouts
-1,2,,,False,,2191.201126,0,0
-3,1,,,False,,0.0,0,0
-4,2,,,True,2025-12-10T09:14:58.955723,1134601.952442,0,0
