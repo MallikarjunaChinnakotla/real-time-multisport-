@@ -1,0 +1,4 @@
+id,tournament_id,team1_id,team2_id,date,status,score_team1,score_team2
+1,1,101,102,2026-03-10 21:12,Live,11,66
+2,2,103,104,2026-03-11 21:12,Scheduled,0,0
+3,1,101,104,2026-03-08 21:12,Completed,114,129

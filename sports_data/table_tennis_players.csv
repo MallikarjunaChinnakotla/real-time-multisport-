@@ -1,0 +1,21 @@
+id,name,team_id,role
+1,Player 1,101,Captain
+2,Player 2,101,Player
+3,Player 3,101,Player
+4,Player 4,101,Captain
+5,Player 5,101,Player
+6,Player 6,102,Player
+7,Player 7,102,Captain
+8,Player 8,102,Captain
+9,Player 9,102,Player
+10,Player 10,102,Player
+11,Player 11,103,Player
+12,Player 12,103,Player
+13,Player 13,103,Captain
+14,Player 14,103,Player
+15,Player 15,103,Player
+16,Player 16,104,Player
+17,Player 17,104,Player
+18,Player 18,104,Player
+19,Player 19,104,Captain
+20,Player 20,104,Player
